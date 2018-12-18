@@ -1,0 +1,15 @@
+.home-circle1 img ,
+.home-circle2 img,
+.home-circle3 img,
+.about-circle2 img,
+.about-circle1 img,
+.feature-style .feature-icon img,
+.screenshot-decor img, .feature-circle1 img,.team-circle1 img,.contact-circle1 img , .contact-circle2 img  .footer-text img
+, .testi-circle2 img, .testi-circle1 img{
+    -webkit-filter: hue-rotate(52deg);
+    filter: hue-rotate(52deg);
+}
+.home-right img {
+    -webkit-filter: hue-rotate(52deg);
+    filter: hue-rotate(52deg);
+}
