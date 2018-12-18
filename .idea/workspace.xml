@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d8e7a85-ec86-4ffc-9b31-b5f96a3abc45" name="Default Changelist" comment="" />
+    <list default="true" id="7d8e7a85-ec86-4ffc-9b31-b5f96a3abc45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blog-details-with-leftsidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blog-details-with-rightsidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blog-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blogs-leftside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/blogs-rightside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/forget-pwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/sign-in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/thank-you.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +30,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54655">
+            <state relative-caret-position="886">
               <caret line="3215" column="14" selection-start-line="3215" selection-start-column="14" selection-end-line="3215" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rtl/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="89" column="81" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
+            <state relative-caret-position="213">
+              <caret line="525" column="28" selection-start-line="525" selection-start-column="28" selection-end-line="525" selection-end-column="28" />
+              <folding>
+                <element signature="e#24821#24827#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,18 +53,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/jquery.validate.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="4196" selection-start-line="3" selection-start-column="4196" selection-end-line="3" selection-end-column="4196" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -72,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6001">
-              <caret line="353" column="70" selection-start-line="353" selection-start-column="70" selection-end-line="353" selection-end-column="70" />
+            <state relative-caret-position="315">
+              <caret line="353" column="76" selection-start-line="353" selection-start-column="76" selection-end-line="353" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -99,26 +107,32 @@
       <find>highlight-left</find>
       <find>mobile.png</find>
       <find>font-family</find>
+      <find>../assets</find>
     </findStrings>
     <replaceStrings>
       <replace>fab fa-facebook-f</replace>
       <replace>فيكسات</replace>
+      <replace>assets</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/assets/css/color/color-1.css" />
         <option value="$PROJECT_DIR$/assets/css/rtl.css" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/assets/js/jquery.validate.min.js" />
         <option value="$PROJECT_DIR$/assets/css/validation.css" />
         <option value="$PROJECT_DIR$/rtl/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-84" />
     <option name="y" value="203" />
     <option name="width" value="1382" />
@@ -133,13 +147,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="fixat-landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixat-landing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="rtl" type="462c0819:PsiDirectoryNode" />
+              <item name="fixat-landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -179,17 +192,18 @@
       <workItem from="1545035468992" duration="1110000" />
       <workItem from="1545044195034" duration="5782000" />
       <workItem from="1545129863115" duration="1774000" />
+      <workItem from="1545140183784" duration="163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10347000" />
+    <option name="totallyTimeSpent" value="10510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,30 +243,6 @@
     <entry file="file://$PROJECT_DIR$/assets/images/back.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54655">
-          <caret line="3215" column="14" selection-start-line="3215" selection-start-column="14" selection-end-line="3215" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/validation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.validate.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="4196" selection-start-line="3" selection-start-column="4196" selection-end-line="3" selection-end-column="4196" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/rtl.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4454">
@@ -270,17 +260,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+    <entry file="file://$PROJECT_DIR$/rtl/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6001">
-          <caret line="353" column="70" selection-start-line="353" selection-start-column="70" selection-end-line="353" selection-end-column="70" />
+        <state relative-caret-position="1207">
+          <caret line="89" column="81" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rtl/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="89" column="81" selection-start-line="89" selection-start-column="81" selection-end-line="89" selection-end-column="81" />
+        <state relative-caret-position="886">
+          <caret line="3215" column="14" selection-start-line="3215" selection-start-column="14" selection-end-line="3215" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4196" selection-start-line="3" selection-start-column="4196" selection-end-line="3" selection-end-column="4196" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/validation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="525" column="28" selection-start-line="525" selection-start-column="28" selection-end-line="525" selection-end-column="28" />
+          <folding>
+            <element signature="e#24821#24827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="353" column="76" selection-start-line="353" selection-start-column="76" selection-end-line="353" selection-end-column="76" />
         </state>
       </provider>
     </entry>

@@ -322,7 +322,7 @@ $(document).ready(function(){
         margin:0,
         nav:true,
         navClass:['owl-prev','owl-next'],
-        navText:['<img src="../assets/images/back.png">','<img src="../assets/images/next.png">'],
+        navText:['<img src="assets/images/back.png">','<img src="assets/images/next.png">'],
         dots:false,
         responsive:{
             0:{
@@ -351,7 +351,7 @@ $(document).ready(function(){
         margin: 0,
         nav: true,
         navClass: ['owl-prev', 'owl-next'],
-        navText: ['<img src="../assets/images/back.png">', '<img src="../assets/images/next.png">'],
+        navText: ['<img src="assets/images/back.png">', '<img src="assets/images/next.png">'],
         dots: false,
         responsive: {
             0: {
